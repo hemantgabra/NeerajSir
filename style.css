@@ -1,4 +1,15 @@
-body {
-  background-color: #ffd07e;
+body{background-color:#ffd07e;}
+.blue-color{background-color:#22243d;}
+ul.top-menu{
+    list-style: none;
+    color: white;
+    display:flex;
+    justify-content: space-between;
 }
-/*# sourceMappingURL=style.css.map */
+.banner-img{
+    background-image: url("../images/top-banner-img.jpg");
+    height: 713px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
